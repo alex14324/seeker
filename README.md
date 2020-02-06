@@ -6,11 +6,10 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/thewhiteh4t"><b>Twitter</b></a>
+ 
+  <a href="https://t.me/alex14324"><b>Telegram</b></a>
   <span> - </span>
-  <a href="https://t.me/thewhiteh4t"><b>Telegram</b></a>
-  <span> - </span>
-  <a href="https://thewhiteh4t.github.io"><b>thewhiteh4t's Blog</b></a>
+  <a href="https://alex14324.github.io"><b>thewhiteh4t's Blog</b></a>
 </p>
 
 <p align="center">
@@ -74,7 +73,7 @@ You can choose a template which will be used by seeker from these :
 ### Kali Linux / Ubuntu / Parrot OS
 
 ```bash
-git clone https://github.com/thewhiteh4t/seeker.git
+git clone https://github.com/alex14324/seeker.git
 cd seeker/
 chmod 777 install.sh
 ./install.sh
@@ -95,7 +94,7 @@ docker pull thewhiteh4t/seeker
 ### Termux
 
 ```bash
-git clone https://github.com/thewhiteh4t/seeker.git
+git clone https://github.com/alex14324/seeker.git
 cd seeker/
 chmod 777 termux_install.sh
 ./termux_install.sh
