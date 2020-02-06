@@ -9,7 +9,7 @@
  
   <a href="https://t.me/alex14324"><b>Telegram</b></a>
   <span> - </span>
-  <a href="https://alex14324.github.io"><b>thewhiteh4t's Blog</b></a>
+  <a href="https://alex14324.github.io"><b>alex14324</b></a>
 </p>
 
 <p align="center">
