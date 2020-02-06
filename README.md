@@ -19,7 +19,7 @@
   <img src="https://i.imgur.com/1wJVDV5.png">
 </p>
 
-Concept behind Seeker is simple, just like we host phishing pages to get credentials why not host a fake page that requests your location like many popular location based websites. Read more on <a href="https://thewhiteh4t.github.io"> thewhiteh4t's Blog </a>.Seeker Hosts a fake website on **In Built PHP Server** and uses **Serveo** to generate a link which we will forward to the target, website asks for Location Permission and if the target allows it, we can get :
+Concept behind Seeker is simple, just like we host phishing pages to get credentials why not host a fake page that requests your location like many popular location based websites. Read more on <a href="https://alex14324.github.io"> alex14324  Blog </a>.Seeker Hosts a fake website on **In Built PHP Server** and uses **Serveo** to generate a link which we will forward to the target, website asks for Location Permission and if the target allows it, we can get :
 
 * Longitude
 * Latitude
@@ -57,7 +57,7 @@ Along with Location Information we also get **Device Information** without any p
 You can choose a template which will be used by seeker from these : 
 
 * NearYou
-* Google Drive (Suggested by @Akaal_no_one)
+* Google Drive (Suggested by @alex14324)
 
 ## Tested On :
 
